@@ -3,7 +3,7 @@
 function initLogoChange() {
   const logoH1 = document.querySelector(".logo h1");
   if (window.matchMedia("(max-width: 768px)").matches) {
-    logoH1.innerHTML = "Y<span>S</span>";
+    logoH1.innerHTML = "G<span>B</span>";
   }
 }
 
